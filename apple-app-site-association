@@ -5,5 +5,20 @@
       "LH6YCFHD6W.com.haulla.haulerdebug",
       "LH6YCFHD6W.com.haulla.haulerstage"
     ]
+  },
+  "applinks": {
+    "apps": [
+        "LH6YCFHD6W.com.haulla.hauler",
+        "LH6YCFHD6W.com.haulla.haulerdebug",
+        "LH6YCFHD6W.com.haulla.haulerstage"
+    ],
+    "details": [
+      {
+        "appID": "LH6YCFHD6W.com.haulla.hauler",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
   }
 }
